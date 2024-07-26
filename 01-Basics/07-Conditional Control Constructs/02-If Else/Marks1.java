@@ -3,7 +3,7 @@ class Marks
 {
     public static void main(String [] args)
     {
-        Scanner scan = new Scanner(System.in);
+        Scanner Scan = new Scanner(System.in);
         System.out.println("Enter Your Marks:");
         int marks= scan.nextInt();
         if (marks>90 && marks<=100) 
