@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-class Addition {
+class Substraction {
     public static void main(String[] args) {
-        Scanner scan = new Scanner (System.in);
+        Scanner scanner = new Scanner (System.in);
         System.out.println("Enter a number");
 
         int a = scan.nextInt();
